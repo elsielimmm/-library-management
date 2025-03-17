@@ -1,0 +1,1 @@
+Thư mục mặc định không chứa file gì. Tệp này tạo ra để up được lên github. Có thể xóa khi tải về máy.
